@@ -20,6 +20,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :zap: In my free time, I read tech articles, learning new things and build my side projects.
 <hr/>
 
+### :blue_book: My latest side project:
+- :link: https://62415d50e851e35d1973f606--jolly-kitsune-940ddb.netlify.app/login
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
